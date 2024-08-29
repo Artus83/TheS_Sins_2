@@ -440,6 +440,9 @@
         },
         {
             "unit": "advent_loyalist_titan"
+        },
+        {
+            "unit": "advent_starbase"
         }]
     }],
     "fleet": "advent_fleet",
@@ -493,7 +496,7 @@
     ],
     "faction_buildable_units": [
         "advent_loyalist_titan",
-        "advent_rebel_titan"
+        "adv_rebel_titan"
     ],
     "buildable_strikecraft": [
         "advent_interceptor_strikecraft",
@@ -1038,12 +1041,12 @@
             "advent_unlock_improved_culture_propagation",
             "advent_loyalist_acclimatization_of_will",
             "advent_unlock_culture_improve_weapon_damage",
-            "advent_unlock_temple_of_purification_unit_item",
-            "advent_upgrade_temple_of_purification_unit_item",
+            "adv_unlock_temple_of_purification_unit_item",
+            "adv_upgrade_temple_of_purification_unit_item",
             "advent_unlock_temple_of_resurrection_unit_item",
             "advent_soul_reclamation",
             "advent_unlock_essence_reservoir_unit_item",
-            "advent_unlock_culture_improve_regeneration"
+            "adv_unlock_culture_improve_regeneration"
         ]
     },
     "missing_ship_component_shop_build_time_scalar": 10.0,
@@ -1121,7 +1124,7 @@
         "advent_temple_of_pilgrimage",
         "advent_unity_protectorate",
         "advent_temple_of_assimilation",
-        "advent_temple_of_purification",
+        "adv_temple_of_purification",
         "advent_temple_of_resurrection"
     ],
     "faction_planet_components": [

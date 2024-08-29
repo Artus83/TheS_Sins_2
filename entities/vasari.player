@@ -378,6 +378,9 @@
         },
         {
             "unit": "vasari_loyalist_titan"
+        },
+        {
+            "unit": "vasari_starbase"
         }]
     },
     "starting_units_in_hyperspace_duration": 6.0,
@@ -432,7 +435,7 @@
     ],
     "faction_buildable_units": [
         "vasari_loyalist_titan",
-        "vasari_rebel_titan"
+        "vas_rebel_titan"
     ],
     "buildable_strikecraft": [
         "vasari_bomber_strikecraft"
@@ -974,7 +977,9 @@
             "vas_unlock_rebel_titan_improve_gravity_pulse_unit_item",
             "vas_unlock_rebel_titan_improve_nano_emitters_unit_item",
             "vas_unlock_rebel_titan",
-            "vas_unlock_rebel_titan_phase_cannon_unit_item"
+            "vas_unlock_rebel_titan_phase_cannon_unit_item",
+            "vasari_unlock_xeno_settlement_unit_item",
+            "vasari_unlock_alliance_xeno_embassy_unit_item"
         ],
         "faction_research_subjects": [
             "vasari_unlock_labor_camp_unit_item",
@@ -985,16 +990,16 @@
             "vasari_unlock_stripped_to_the_core_unit_item",
             "vasari_culture_factory_unit_build_time_penalty",
             "vasari_culture_income_penalty",
-            "vasari_culture_defense_boost",
-            "vasari_unlock_bazaar_unit_item",
-            "vasari_culture_planet_heal",
+            "vas_culture_defense_boost",
+            "vas_unlock_bazaar_unit_item",
+            "vas_culture_planet_heal",
             "vasari_all_for_one",
             "vasari_upgrade_hull_with_trader",
             "vasari_upgrade_shields_with_advent",
-            "vasari_culture_factory_unit_build_time_bonus",
+            "vas_culture_factory_unit_build_time_bonus",
             "vasari_upgrade_npc_ability_cooldown",
-            "vasari_unlock_rebel_titan_improve_gravity_pulse_unit_item",
-            "vasari_unlock_rebel_titan_improve_nano_emitters_unit_item"
+            "vas_unlock_rebel_titan_improve_gravity_pulse_unit_item",
+            "vas_unlock_rebel_titan_improve_nano_emitters_unit_item"
         ]
     },
     "missing_ship_component_shop_build_time_scalar": 10.0,
@@ -1097,7 +1102,7 @@
         "vasari_labor_camp",
         "vasari_stripped_to_the_core",
         "vasari_alliance_xeno_embassy",
-        "vasari_bazaar",
+        "vas_bazaar",
         "vasari_xeno_settlement"
     ],
     "planet_component_build_groups": [
@@ -1471,7 +1476,7 @@
                 "prerequisites": [
                     ["vasari_upgrade_ferrous_biosphere_1"]
                 ],
-                "max_planet_component_slots": 3,
+                "max_planet_component_slots": 4,
                 "max_civilian_structure_slots": 9,
                 "structure_builder_count": 3,
                 "max_health_points": 450
@@ -1684,7 +1689,7 @@
                 "prerequisites": [
                     ["vasari_upgrade_ice_biosphere_0"]
                 ],
-                "max_planet_component_slots": 3,
+                "max_planet_component_slots": 4,
                 "max_civilian_structure_slots": 9,
                 "structure_builder_count": 3,
                 "max_health_points": 300
@@ -2227,7 +2232,7 @@
                 "prerequisites": [
                     ["vasari_upgrade_volcanic_biosphere_0"]
                 ],
-                "max_planet_component_slots": 3,
+                "max_planet_component_slots": 4,
                 "max_civilian_structure_slots": 9,
                 "structure_builder_count": 3,
                 "max_health_points": 300

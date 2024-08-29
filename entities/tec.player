@@ -417,6 +417,9 @@
         },
         {
             "unit": "trader_loyalist_titan"
+        },
+        {
+            "unit": "trader_starbase"
         }]
     }],
     "fleet": "trader_fleet",
@@ -470,7 +473,7 @@
     ],
     "faction_buildable_units": [
         "trader_loyalist_titan",
-        "trader_rebel_titan"
+        "tec_rebel_titan"
     ],
     "buildable_strikecraft": [
         "trader_interceptor_strikecraft",
@@ -511,10 +514,10 @@
         "trader_phase_jump_inhibitor_structure",
         "trader_hangar_defense_structure",
         "trader_starbase",
-        "trader_orbital_cannon_structure"
+        "tec_orbital_cannon_structure"
     ],
     "faction_structures": [
-        "trader_orbital_cannon_structure"
+        "tec_orbital_cannon_structure"
     ],
     "ability_created_units": [
         "trader_missile_battery_frigate",
@@ -1035,11 +1038,11 @@
             "trader_rebel_pirate_cease_fire",
             "trader_rebel_pirate_share_vision",
             "trader_economic_exotic_build_rate",
-            "trader_unlock_rebel_titan_rail_gun_weapon_unit_item",
+            "tec_unlock_rebel_titan_rail_gun_weapon_unit_item",
             "tec_unlock_human_doctrine_center_unit_item",
             "tec_unlock_pirate_mercenary_base_unit_item",
             "tec_orbital_cannon_structure_range",
-            "trader_unlock_rebel_titan",
+            "tec_unlock_rebel_titan",
             "tec_unlock_orbital_cannon_structure"
         ],
         "faction_research_subjects": [
@@ -1057,16 +1060,16 @@
             "trader_enemy_culture_suppression",
             "trader_savage_thrill",
             "trader_planet_pillaging",
-            "trader_pirate_raid_supply",
+            "tec_pirate_raid_supply",
             "trader_high_order_explosives",
             "trader_culture_insurgency",
             "trader_rebel_pirate_cease_fire",
             "trader_rebel_pirate_share_vision",
             "trader_economic_exotic_build_rate",
-            "trader_unlock_rebel_titan_rail_gun_weapon_unit_item",
-            "trader_unlock_human_doctrine_center_unit_item",
-            "trader_unlock_pirate_mercenary_base_unit_item",
-            "trader_orbital_cannon_structure_range"
+            "tec_unlock_rebel_titan_rail_gun_weapon_unit_item",
+            "tec_unlock_human_doctrine_center_unit_item",
+            "tec_unlock_pirate_mercenary_base_unit_item",
+            "tec_orbital_cannon_structure_range"
         ]
     },
     "missing_ship_component_shop_build_time_scalar": 10.0,

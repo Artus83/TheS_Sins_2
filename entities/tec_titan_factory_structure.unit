@@ -102,7 +102,7 @@
         },
         "prerequisites": [
             ["trader_unlock_loyalist_titan",
-            "trader_unlock_rebel_titan"]
+            "tec_unlock_rebel_titan"]
         ],
         "build_kind": "structure",
         "build_radius": 2738.218262
