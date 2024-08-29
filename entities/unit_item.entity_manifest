@@ -1,0 +1,23 @@
+{
+    "ids": [
+        "tec_rebel_human_doctrine_center",
+        "tec_pirate_mercenary_base",
+        "tec_rebel_titan_hull_plating_0",
+        "tec_rebel_titan_hull_plating_1",
+        "tec_rebel_titan_unlock_missile_weapon",
+        "tec_rebel_titan_unlock_rail_gun_weapon",
+        "tec_rebel_titan_hangar",
+        "adv_rebel_titan_unlock_missile_weapon",
+        "adv_rebel_titan_shield_booster",
+        "adv_rebel_titan_unlock_plasma_weapon",
+        "adv_rebel_titan_hull_plating",
+        "vas_bazaar",
+        "vas_rebel_titan_improve_nano_emitters",
+        "vas_rebel_titan_improve_gravity_pulse",
+        "vas_rebel_titan_unlock_phase_cannon_weapon",
+        "vas_rebel_titan_hull_plating_0",
+        "vas_rebel_titan_hull_plating_1",
+        "vas_rebel_titan_hangar",
+        "vas_rebel_titan_unlock_extra_phase_missile_weapons"
+    ]
+}

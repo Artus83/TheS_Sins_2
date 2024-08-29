@@ -1,0 +1,26 @@
+{
+    "ids": [
+        "tec_unlock_orbital_cannon_structure",
+        "tec_orbital_cannon_structure_range",
+        "tec_pirate_raid_supply",
+        "tec_unlock_rebel_titan",
+        "tec_unlock_rebel_titan_rail_gun_weapon_unit_item",
+        "tec_unlock_human_doctrine_center_unit_item",
+        "tec_unlock_pirate_mercenary_base_unit_item",
+        "adv_unlock_temple_of_purification_unit_item",
+        "adv_upgrade_temple_of_purification_unit_item",
+        "adv_unlock_culture_improve_regeneration",
+        "adv_unlock_rebel_titan",
+        "vas_culture_defense_boost",
+        "vas_shock_and_awe",
+        "vas_unlock_bazaar_unit_item",
+        "vas_upgrade_bazaar_unit_item_0",
+        "vas_upgrade_bazaar_unit_item_1",
+        "vas_culture_planet_heal",
+        "vas_culture_factory_unit_build_time_bonus",
+        "vas_unlock_rebel_titan",
+        "vas_unlock_rebel_titan_improve_gravity_pulse_unit_item",
+        "vas_unlock_rebel_titan_improve_nano_emitters_unit_item",
+        "vas_unlock_rebel_titan_phase_cannon_unit_item"
+    ]
+}
