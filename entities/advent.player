@@ -536,7 +536,7 @@
         "advent_phase_jump_inhibitor_structure",
         "advent_hangar_defense_structure",
         "advent_starbase",
-        "advent_deliverance_engine_structure"
+        "adv_deliverance_engine_structure"
     ],
     "ability_created_units": [
         "advent_starbase"
@@ -1032,8 +1032,11 @@
             "advent_soul_reclamation",
             "advent_unlock_essence_reservoir_unit_item",
             "adv_unlock_culture_improve_regeneration",
-            "adv_unlock_rebel_titan"
-            
+            "adv_unlock_rebel_titan",
+            "adv_unlock_deliverance_engine_structure_rebel_ability",
+            "adv_upgrade_deliverance_engine_structure_rebel_ability",
+            "advent_unlock_deliverance_engine_structure_loyalist_ability",
+            "advent_upgrade_deliverance_engine_structure_loyalist_ability"
         ],
         "faction_research_subjects": [
             "advent_unlock_temple_of_pilgrimage_unit_item",

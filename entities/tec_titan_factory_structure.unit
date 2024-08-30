@@ -100,10 +100,6 @@
             "metal": 500.0,
             "crystal": 500.0
         },
-        "prerequisites": [
-            ["trader_unlock_loyalist_titan",
-            "tec_unlock_rebel_titan"]
-        ],
         "build_kind": "structure",
         "build_radius": 2738.218262
     },

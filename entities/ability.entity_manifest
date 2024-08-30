@@ -1,5 +1,8 @@
 {
     "ids": [
-        "tec_orbital_cannon"
+        "tec_orbital_cannon",
+        "adv_deliverance_engine_rebel",
+        "adv_deliverance_engine_loyalist",
+        "adv_deliverance_engine_culture_spread_rebel"
     ]
 }
