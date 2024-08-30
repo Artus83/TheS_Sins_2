@@ -834,7 +834,6 @@
             "vasari_unlock_deploy_starbase_unit_item",
             "vasari_unlock_desert_biosphere",
             "vasari_unlock_engine_boost_unit_item",
-            "vasari_unlock_exodus_xeno_embassy_unit_item",
             "vasari_unlock_exotic_factory_structure",
             "vasari_unlock_fabricator_cruiser",
             "vasari_unlock_fabricator_cruiser_debris_reclamation_ability",
@@ -1092,7 +1091,6 @@
         "vasari_labor_camp",
         "vasari_gas_harvester",
         "vasari_stripped_to_the_core",
-        "vasari_exodus_xeno_embassy",
         "vasari_alliance_xeno_embassy",
         "vas_bazaar",
         "vasari_xeno_settlement"
@@ -2401,6 +2399,19 @@
         {
             "propagation_rate_scalar": -2.0
         }],
+        "friendly_unit_modifiers": [
+        {
+            "tag": "structure",
+            "modifier_type": "damage_taken",
+            "value_behavior": "scalar",
+            "values": [
+            {
+                "value": -0.48,
+                "prerequisites": [
+                    ["vas_culture_defense_boost"]
+                ]
+            }]
+        }],
         "friendly_planet_modifiers": [
         {
             "modifier_type": "mining_track_metal_income_rate",
@@ -2433,6 +2444,45 @@
                 "value": 0.36,
                 "prerequisites": [
                     ["vasari_culture_mining_extraction_rate_bonus"]
+                ]
+            }]
+        },
+        {
+            "modifier_type": "bombing_damage_taken",
+            "value_behavior": "scalar",
+            "values": [
+            {
+                "value": -0.48,
+                "prerequisites": [
+                    ["vas_culture_defense_boost"]
+                ]
+            }]
+        },
+        {
+            "modifier_type": "factory_unit_build_time",
+            "value_behavior": "scalar",
+            "values": [
+            {
+                "value": -0.06,
+                "prerequisites": [
+                    ["vasari_unlock_culture_center"]
+                ]
+            },
+            {
+                "value": -0.24,
+                "prerequisites": [
+                    ["vas_culture_factory_unit_build_time_bonus"]
+                ]
+            }]
+        },
+        {
+            "modifier_type": "health_points_restore_rate",
+            "value_behavior": "scalar",
+            "values": [
+            {
+                "value": 0.48,
+                "prerequisites": [
+                    ["vas_culture_planet_heal"]
                 ]
             }]
         }],

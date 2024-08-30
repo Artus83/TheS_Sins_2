@@ -1,6 +1,7 @@
 {
-    "pickable_players": [
+    "ids": [
         "tec",
+        "advent",
         "vasari"
     ]
 }

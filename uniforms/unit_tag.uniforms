@@ -9,10 +9,6 @@
         "localized_name": "unit_tag_name.titan"
     },
     {
-        "name": "adv_titan_r",
-        "localized_name": "unit_tag_name.titan"
-    },
-    {
         "name": "vas_titan_r",
         "localized_name": "unit_tag_name.titan"
     }]

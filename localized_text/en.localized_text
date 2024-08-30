@@ -1482,8 +1482,6 @@
     "player_faction_description.vasari_loyalist": "Feeling that they've lingered too long in this region of space, the Vasari Exodus abandons cooperation and strikes out to take the resources they need to escape. They also gain the ability to forgo planets and consume them for resources.",
     "player_faction_name.tec": "TEC",
     "player_faction_description.tec": "United TEC.",
-    "player_faction_name.advent": "Advent",
-    "player_faction_description.advent": "United Advent.",
     "player_faction_name.vasari": "Vasari",
     "player_faction_description.vasari": "United Vasari.",
     "vasari_no_credit_income_description": "Vasari have no intrinsic need for credits. However, while mired in a protracted war it can be prudent to adapt to native economies. Credits can be acquired via allies, Minor Factions, Markets, and research.",
